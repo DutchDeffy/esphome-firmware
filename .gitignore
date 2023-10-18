@@ -2,3 +2,5 @@
 secrets.yaml
 */.gitignore
 !/.gitignore
+
+.DS_STORE
